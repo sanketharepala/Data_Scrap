@@ -10,6 +10,7 @@ linkedin_username = 'your mail ID'
 linkedin_password = 'your Password'
 
 #job role
+# HOW AM I ABLE TO EDIT THIS LOL
 
 job_role = 'Data Science'
 
